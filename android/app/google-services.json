@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1018913588199",
+    "project_id": "designdatabook",
+    "storage_bucket": "designdatabook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018913588199:android:f0ce4462cb6d17f0b9f342",
+        "android_client_info": {
+          "package_name": "com.mechelibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018913588199-aku5g8h98dhprp9q6uec9jg4934njvp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0T0invVvm7Hk5Ld9Zna_7x4WA2bAQkEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018913588199-aku5g8h98dhprp9q6uec9jg4934njvp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
